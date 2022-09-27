@@ -1,0 +1,44 @@
+body{
+    background-color: beige;
+}
+
+img{
+    border-radius: 50%;
+    width: 50%;
+    height: 25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: brown;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#header{
+    text-align: center;
+    background-color: tan;
+    border-style: dashed;
+    border-color: brown;
+    border-width: 3px;
+}
+
+#navlink{
+    position: fixed;
+}
+
+#list{
+    border-width: 1px;
+    border-style: solid;
+    border-color: brown;
+    padding: 15x;
+    margin-left: 35%;
+}
+
+#footer{
+    border-width: 3px;
+    border-style: solid;
+    border-color: brown;
+    text-align: center;
+    background-color: tan;
+}   border-radius: 50%;
+}
